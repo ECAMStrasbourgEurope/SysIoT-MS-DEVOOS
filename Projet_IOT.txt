@@ -1,0 +1,10 @@
+1)	Quelle est le rôle de la couche 3.
+La troisième couche serte à récupérer, analyser, traiter et stocker le flux d’informations reçus de nos objets connectés (couches 1 ) via des protocoles de communication (couche 2).
+2)	Quelle est la forme de l’objet sur cette couche
+Notre objet est sous forme de donnée.
+3)	Les outils à utiliser
+Pour bien exploiter les données, on peut procéder à des logiciels de traitement d’informations pour rendre cette matière exploitable de la part du client.
+4)	Comment profiter des données communiquées.
+La troisième couche est celle qui traite les informations liées aux couches précédentes.
+En effet, pour profiter de nos données et on se basant sur des algorithmes, on peut réaliser des prédictions sur notre système par exemple.
+Aussi, après les avoir traitées et analysées, on peut traduire nos données et les afficher sur une interface graphique compréhensible de la part de l’utilisateur dont on peut citer le Node RED.
